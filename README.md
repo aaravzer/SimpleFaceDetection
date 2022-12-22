@@ -6,3 +6,6 @@
 ## To Run
 `python3 facedetection.py`
 
+## TODO:
+  ### Make the little label thingy look more pleasing.
+
